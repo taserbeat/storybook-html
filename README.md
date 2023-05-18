@@ -19,3 +19,9 @@ npx storybook init --type html
 rm package-lock.json
 yarn install
 ```
+
+# StoryBook の起動
+
+```bash
+yarn storybook
+```
